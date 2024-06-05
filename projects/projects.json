@@ -2,7 +2,7 @@
   {
     "name": "BeautyBliss",
     "desc": "A cosmetic website created using HTML, CSS.",
-    "image": "BeautyBliss",
+    "image": "beautybliss",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/beautybliss/"
@@ -12,7 +12,7 @@
   {
     "name": "DreamDecor",
     "desc": "A interior design website created using HTML, CSS",
-    "image": "DreamDecor",
+    "image": "dreamdecor",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/DreamDecor/"
@@ -22,7 +22,7 @@
   {
     "name": "CoffeeCafe",
     "desc": "A coffee website created using HTML, CSS. ",
-    "image": "CoffeeCafe",
+    "image": "coffeecafe",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/coffeecafe/"
@@ -32,7 +32,7 @@
   {
     "name": "Zomato-clone",
     "desc": "A clone of zomato website created using HTML, CSS.",
-    "image": "Zomato-clone",
+    "image": "zomato-clone",
     "category": "HTMLCSS",
     "links": {
       "view": " https://vinitakolambe.github.io/zomato-clone1/"
@@ -42,7 +42,7 @@
   {
     "name": "GreenGlory",
     "desc": "A plant selling website created using HTML, CSS.",
-    "image": "GreenGlory",
+    "image": "greenglory",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/greenglory/"
